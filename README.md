@@ -4,9 +4,6 @@ Portfolio built with React and Material-Ui
 
 👉 [See here](https://manojloilic.com/#/)
 
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Preparing the application
 
